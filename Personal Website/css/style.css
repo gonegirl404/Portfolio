@@ -1,0 +1,79 @@
+#title{
+    background-color: #7D5A50;
+    text-align: center;
+    color: #FCDEC0;
+}
+.navbar-brand{
+    font-family: 'Parisienne', sans-serif;
+    font-size: 2rem;
+}
+.intro{
+    padding-bottom: 5%;
+}
+.intro-img{
+    padding-top: 50px;
+    width: 15%;
+}
+.intro-text{
+    padding-bottom:40px;
+    padding-top: 20px;
+}
+h1{
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+h1, p{
+    font-family: 'Montserrat', sans-serif;
+}
+.container-fluid{
+    padding : 3% 15%;
+}
+.recent-project, .email-box{
+    color: #FCDEC0;
+    text-decoration: none;
+    border: solid #FCDEC0;
+    border-width: 1px;
+    padding: 20px;
+}
+#services{
+    background: linear-gradient(to bottom, #7D5A50 0%, #FCDEC0 50%);
+    color: #7D5A50;
+}
+.row{
+    width: 85%;
+    margin: auto;
+    padding-top: 7%;
+}
+.feature{
+    padding: 7% 2% 7% 2%;
+}
+.feature-img{
+    padding: 15% 0 15% 0;
+}
+.feature-name{
+    padding-bottom: 5%;
+}
+p{
+    font-size: 15px;
+}
+#get-in-touch{
+    background: linear-gradient(to bottom, #FCDEC0 0%, #7D5A50 50%);
+    color: #FCDEC0;
+    text-align: center;
+    padding: 10% 10% 5% 10%;
+}
+.email-me{
+    padding-bottom: 5%;
+}
+hr{
+    border-top: 2px solid;
+    background-color: #FCDEC0;
+    margin: 0 0 2% 0;
+}
+#footer{
+    background-color: #7D5A50;
+    color: #FCDEC0;
+    padding: 2%;
+    text-align: center;
+}
